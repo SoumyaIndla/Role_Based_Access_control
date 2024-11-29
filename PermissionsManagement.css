@@ -1,0 +1,49 @@
+/* Permission Management Container */
+.permission-management {
+  padding: 20px;
+  background-color: #ffffff; /* White background for clarity */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Card Styling for Forms */
+.form-card {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #f0f8ff; /* Light blue background for emphasis */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Slight shadow for card effect */
+}
+
+/* Permission Table Styles */
+.permission-table {
+  width: 100%;
+  border-collapse: collapse; /* Remove default table spacing */
+  background-color: #ffffff; /* Ensure table has a clean background */
+  border-radius: 8px; /* Rounded corners for table */
+  overflow: hidden; /* Prevent overflow of rounded corners */
+}
+
+.permission-table th,
+.permission-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0; /* Light gray border for rows */
+}
+
+/* Table Header Styling */
+.permission-table th {
+  background-color: #0077b6; /* Blue header for visibility */
+  color: white; /* White text for contrast */
+  font-weight: bold;
+  text-transform: uppercase; /* Capitalize header text */
+}
+
+/* Table Container */
+.table-container {
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #e8f5ff; /* Light blue container background */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
