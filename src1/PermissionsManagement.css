@@ -1,0 +1,30 @@
+.permission-management {
+  padding: 20px;
+}
+
+.form-card {
+  margin-bottom: 20px;
+}
+
+.permission-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.permission-table th,
+.permission-table td {
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.permission-table th {
+  background-color: #e3f2fd; /* Light Blue */
+}
+
+.table-container {
+  margin-top: 30px;
+}
+
+button {
+  margin: 5px;
+}
