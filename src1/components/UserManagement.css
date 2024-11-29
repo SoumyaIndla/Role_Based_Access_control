@@ -1,0 +1,30 @@
+.user-management {
+  padding: 20px;
+}
+
+.form-card {
+  margin-bottom: 20px;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.user-table th {
+  background-color: #e3f2fd; /* Light Blue */
+}
+
+.table-container {
+  margin-top: 30px;
+}
+
+button {
+  margin: 5px;
+}
