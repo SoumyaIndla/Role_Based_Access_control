@@ -1,0 +1,30 @@
+.role-management {
+  padding: 20px;
+}
+
+.form-card {
+  margin-bottom: 20px;
+}
+
+.role-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.role-table th,
+.role-table td {
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.role-table th {
+  background-color: #bbdefb; /* Light Blue */
+}
+
+.table-container {
+  margin-top: 30px;
+}
+
+button {
+  margin: 5px;
+}
