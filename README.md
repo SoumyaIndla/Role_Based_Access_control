@@ -91,7 +91,7 @@ An advanced web application designed to implement Role-Based Access Control (RBA
    Visit the app at http://localhost:3000.
 
 ---
-## 🌱** Upcoming Features**
+## 🌱 Upcoming Features
 
 - Add backend authentication for user login.
 - Implement sorting and filtering in the user table.
